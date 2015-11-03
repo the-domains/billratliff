@@ -1,0 +1,23 @@
+name: billratliff
+favicon: null
+layout_spectrum: 0.3181612982880324
+typography_spectrum: 0.7520206451881677
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.8478717273101211
+  lightness: 0.16767549887299538
+  saturation: 0.9073570023756474
+  rhythmicContrast: 0.4418635810725391
+purpose: []
